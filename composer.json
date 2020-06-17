@@ -6,5 +6,8 @@
             "email": "maxime.leclercq@smile.fr"
         }
     ],
-    "require": {}
+    "require": {},
+    "archive": {
+	"exclude": ["/doc"]
+    }
 }
