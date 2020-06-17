@@ -1,0 +1,10 @@
+{
+    "name": "delyriand/test",
+    "authors": [
+        {
+            "name": "Maxime LECLERCQ",
+            "email": "maxime.leclercq@smile.fr"
+        }
+    ],
+    "require": {}
+}
